@@ -22,11 +22,7 @@
 
 /*! ./modules/strip-ansi/index.js */
 
-/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */
-
 /*! ./node_modules/webpack-dev-server/client/clients/WebSocketClient.js */
-
-/*! ./normalize-url */
 
 /*! ./overlay.js */
 
@@ -135,10 +131,6 @@
   \*********************************************************************/
 
 /*!************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/hmr/normalize-url.js ***!
-  \************************************************************************/
-
-/*!************************************************************************!*\
   !*** ./node_modules/webpack-dev-server/client/modules/logger/index.js ***!
   \************************************************************************/
 
@@ -153,10 +145,6 @@
 /*!****************************************************************************!*\
   !*** ./node_modules/webpack-dev-server/client/modules/strip-ansi/index.js ***!
   \****************************************************************************/
-
-/*!*******************************************************************************!*\
-  !*** ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js ***!
-  \*******************************************************************************/
 
 /*!********************************************************************************!*\
   !*** ./node_modules/webpack-dev-server/client/utils/getCurrentScriptSource.js ***!
